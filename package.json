@@ -1,0 +1,16 @@
+{
+  "name": "NodeAndSequelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alexandre-Nog-Oliveira/NodeAndSequelize.git",
+  "author": "Alexandre Oliveira <Alexandre2001.oliveira@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "sequelize-cli": "^6.5.2"
+  }
+}
